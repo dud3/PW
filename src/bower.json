@@ -1,0 +1,21 @@
+{
+  "name": "PW",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dud3/PW",
+  "description": "Personal Website",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Dren Kajmakci"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
