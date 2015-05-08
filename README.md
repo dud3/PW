@@ -1,5 +1,4 @@
 @PW
 ===
 
-Personal www
-``More here..``
+Moved to: https://github.com/Drooids/profilo-website
